@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "OP_BOT",
-    "password": "OPBOT123",
+    "password": "",
     "type": "offline"
   },
   "server": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "OPBOT123"
     },
     "anti-afk": {
       "enabled": true,
