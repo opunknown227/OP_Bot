@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "191.96.231.41",
-    "port": 10250,
+    "ip": "opiessmp.aternos.me",
+    "port": 39112,
     "version": "1.21.1"
   },
   "position": {
